@@ -1,6 +1,6 @@
 # 🧼 Mall Customer Dataset - Data Cleaning & Preprocessing Project
 
-This project is part of a 45-day internship task focused on **data cleaning and preprocessing** using Python and Pandas. The dataset used is the [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
+This project is focused on **data cleaning and preprocessing** using Python and Pandas. The dataset used is the [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 
 ---
 
@@ -75,5 +75,6 @@ cleaned_data/cleaned_mall_customers.csv
 
 🙌 Acknowledgments
 Dataset Source: Kaggle - Mall Customer Segmentation Data
+
 
 
